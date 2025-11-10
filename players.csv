@@ -1,0 +1,1 @@
+players <- read_csv("/home/jovyan/work/dsci-100-student/slides/R/data/players.csv")
